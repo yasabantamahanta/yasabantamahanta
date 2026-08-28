@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasabanta mahanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.magnific.com/free-vector/cute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_35868802.htm" alt="">
+<img src="https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUkNLQ09rZThPc2tLeHExaUlVbXpxQ3xBR3JiS2FsNmxYRHJYT29SZWlHWjFIdWpST2FISTZvNkg1cS1VdjM3MlpiVGVIWlhoQ3dXcWJEdVN4XzE5RGdQQ1BCZFFBRVpZZ2VOMWlmNWdmbFpRckpMZjRvSnB0Q1BZTjR6&q=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FK5kfQExKk731K%2Fgiphy.gif&v=KQlcH9j8t7w" alt="">
 
 - 🌱 I’m currently learning **JAVA development**
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395](https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395)
