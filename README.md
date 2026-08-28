@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasabanta mahanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.google.com/imgres?q=animated%20technology%20pictures&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fblockchain-technology-cartoon-illustration_23-2151572153.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcyber-technology-animation&docid=yTjdZlsdxTGLcM&tbnid=FYyD7CfOB1W3-M&vet=12ahUKEwjF-oDHt8OWAxVFmuEIHSjbLCYQnPAOegQIKxAA..i&w=740&h=557&hcb=2&ved=2ahUKEwjF-oDHt8OWAxVFmuEIHSjbLCYQnPAOegQIKxAA" alt="">
 
 - 🌱 I’m currently learning **JAVA development**
 
