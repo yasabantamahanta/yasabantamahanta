@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasabanta mahanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media.giphy.com/media/K5kfQEx..." alt="">
+
+<img src="https://media.giphy.com/media/K5kfQExkk731k/giphy.gif" alt="">
 
 - 🌱 I’m currently learning **JAVA development**
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395](https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395)
