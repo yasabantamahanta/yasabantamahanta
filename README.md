@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasabanta mahanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"
-     width="450px"
+     width="300px"
      align="right"
      alt="3D Cube Animation">
 
