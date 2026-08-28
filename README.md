@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasabanta mahanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/imgres?q=animated%20technology%20pictures&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fblockchain-technology-cartoon-illustration_23-2151572153.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcyber-technology-animation&docid=yTjdZlsdxTGLcM&tbnid=FYyD7CfOB1W3-M&vet=12ahUKEwjF-oDHt8OWAxVFmuEIHSjbLCYQnPAOegQIKxAA..i&w=740&h=557&hcb=2&ved=2ahUKEwjF-oDHt8OWAxVFmuEIHSjbLCYQnPAOegQIKxAA" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCpYA5vMK1y5wm-ne1fMZ4RIyrtQo7kGrL9Z7J6IlA1jslek-6igdZVdw&s=10" alt="">
 
 - 🌱 I’m currently learning **JAVA development**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395](https://www.linkedin.com/in/yasabanta-mahanta-7b72b1395)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,MongoDB,Python,C,DSA,MYsql**
